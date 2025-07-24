@@ -32,5 +32,5 @@ I'm a Mechatronics Engineering undergraduate passionate about building real-worl
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/jeremiah-williams-720976372/))  
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeremiah-williams-720976372/ 
 - 📧 Email: jerremiahwilly@gmail.com  
