@@ -7,9 +7,9 @@ I'm a Mechatronics Engineering undergraduate passionate about building real-worl
 ## 🚀 Skills
 
 - **MLOps:** DVC, MLflow, Github Action, Airflow CI/CD tools, Model Deployment  
-- **Data Science:** EDA, Machine Learning, Deep Learning  
+- **Data Science:** EDA, Machine Learning, Deep Learning, LLMs, NLP.
 - **Embedded Systems:** Circuit Simulation (Proteus), Microcontroller
-- **Languages & Tools:** Python, TensorFlow, Scikit-learn, FastAPI, Docker
+- **Languages & Tools:** Python, TensorFlow, Scikit-learn, FastAPI, Docker, Hugging face Transformers.
 - **Cloud Platforms:** Azure,GCP
 ---
 
